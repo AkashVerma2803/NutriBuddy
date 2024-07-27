@@ -71,18 +71,3 @@ POST    /admin/addAdmin
 ---
 
 ## <br/>
-
-## More Project Details :-
-
-- Type : Group Project
-- Duration of Project - 1 Day
-- Total Members who contributed - 5
-  - <a style="color:#ffd41f" href="https://www.linkedin.com/in/ankitkumar-singh-5b183b210/">Ankitkumar Singh</a>
-  - <a style="color:#ffd41f" href="https://www.linkedin.com/in/sharma-pratik/">Pratik Sharma</a>
-  - <a style="color:#ffd41f" href="https://www.linkedin.com/in/shahnawaz-khan/">Shahnawaz</a>
-
----
-
-<br/>
-
-<h3 align="center" >Thankyou for your Time 💝</h3>

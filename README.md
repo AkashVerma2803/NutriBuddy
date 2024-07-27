@@ -4,8 +4,6 @@
 
 ## "Crafted for holistic health tracking, our React Native health and fitness application seamlessly integrates robust APIs to offer comprehensive insights. Leveraging the Spoonacular API, users access detailed nutritional breakdowns, empowering informed dietary choices with data on fats, proteins, and carbs in various foods. Complementing this, ExerciseDB API enriches the app with diverse exercise guides, ensuring users perform exercises correctly for effective workouts. Our app goes further, incorporating a step counter via a speedometer, enabling users to monitor their physical activity effortlessly. To safeguard user data and ensure seamless access, Firebase authentication fortifies the app's security, fostering a trustworthy environment. This all-in-one health and fitness solution amalgamates nutrition, exercise, and activity tracking, empowering users on their journey toward optimal well-being."
 
-Drive Link : 
-<a style="color:#ffd41f" href="https://drive.google.com/file/d/1Oo0TGC60Rk-ASGMivat-RrFiO6c58EMf/view?usp=sharing">Video Link</a>
 
 <br/>
 
